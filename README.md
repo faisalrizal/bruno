@@ -2,8 +2,6 @@
 
 [![Latest Version](https://img.shields.io/github/release/faisalrizal/bruno.svg?style=flat-square)](https://github.com/faisalrizal/bruno/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/travis/faisalrizal/bruno/master.svg?style=flat-square)](https://travis-ci.org/faisalrizal/bruno)
-[![Coverage Status](https://img.shields.io/coveralls/faisalrizal/bruno.svg?style=flat-square)](https://coveralls.io/github/faisalrizal/bruno)
 [![Total Downloads](https://img.shields.io/packagist/dt/faisalrizal/bruno.svg?style=flat-square)](https://packagist.org/packages/faisalrizal/bruno)
 
 ## Introduction
