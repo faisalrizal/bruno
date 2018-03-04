@@ -31,14 +31,8 @@ To get started with Bruno I highly recommend my article on
 
 ## Installation
 
-For Laravel 5.3 and below
 ```bash
-composer require optimus/bruno ~2.0
-```
-
-For Laravel 5.4 and above
-```bash
-composer require optimus/bruno ~3.0
+composer require jasahub/bruno
 ```
 
 ## Usage
@@ -67,8 +61,8 @@ Filter_groups | array | Array of filter groups. See below for syntax.
 
 namespace App\Http\Controllers;
 
-use Optimus\Api\Controller\EloquentBuilderTrait;
-use Optimus\Api\Controller\LaravelController;
+use Jasahub\EloquentBuilderTrait;
+use Jasahub\LaravelController;
 use App\Models\Book;
 
 class BookController extends LaravelController
