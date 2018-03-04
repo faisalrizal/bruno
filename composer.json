@@ -1,12 +1,12 @@
 {
-    "name": "jasahub/bruno",
+    "name": "faisalrizal/bruno",
     "autoload": {
         "psr-4": {
             "Jasahub\\Bruno\\": "src/"
         }
     },
     "require": {
-        "jasahub/architect": "~1.0"
+        "faisalrizal/architect": "~1.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
