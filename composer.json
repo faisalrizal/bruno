@@ -1,12 +1,12 @@
 {
-    "name": "optimus/bruno",
+    "name": "jasahub/bruno",
     "autoload": {
         "psr-4": {
-            "Optimus\\Bruno\\": "src/"
+            "Jasahub\\Bruno\\": "src/"
         }
     },
     "require": {
-        "optimus/architect": "~1.0"
+        "jasahub/architect": "~1.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
